@@ -1,6 +1,6 @@
 variable "domain_name_label" {
     type    = string
-    default = "lbkb001"
+    default = "edmario1510"
 }
 
 variable "vm_size" {
